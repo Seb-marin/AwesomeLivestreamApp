@@ -1,0 +1,6 @@
+module react_native_livestream {
+  umbrella header "react-native-livestream-umbrella.h"
+
+  export *
+  module * { export * }
+}
